@@ -1,0 +1,16 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+*.aab
+/app/release
+/app/debug
+/app/build
+/app/src/main/assets/notion_config.json
+/app/src/main/assets/imgbb_config.json
